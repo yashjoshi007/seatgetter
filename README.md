@@ -9,3 +9,11 @@ A new Flutter project.
 - Execute Pub get for downloading all dependencies.
 - Connect your device through a USB cable and turn on developer options.
 - Run the app through IDE a prompt for installation will be asked in your device, select install and test the app.
+
+
+
+
+
+
+https://github.com/yashjoshi007/seatgetter/assets/52818067/3fa42d66-7404-4d58-86d2-7ff96b5d1c2e
+
