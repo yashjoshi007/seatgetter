@@ -10,7 +10,9 @@ A new Flutter project.
 - Connect your device through a USB cable and turn on developer options.
 - Run the app through IDE a prompt for installation will be asked in your device, select install and test the app.
 
-
+## Features:
+- Different color codes for different seat types.
+- Auto-scroll to the seat which has to be found.
 
 
 
